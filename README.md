@@ -1,85 +1,40 @@
-# Digital-Farm-Management-Portal
-🐄 Digital Farm Management Portal
-Monitoring MRL (Maximum Residue Limits) & AMU (Antimicrobial Usage)
+Here’s a clean GitHub README.md for your project 👇
+
+🌱 Smart Farming System
 📌 Overview
 
-The Digital Farm Management Portal is a smart agriculture solution designed to help farmers and veterinarians monitor livestock health, track antimicrobial drug usage (AMU), and ensure that animal products comply with Maximum Residue Limits (MRL).
+The Smart Farming System is an AI-powered solution designed to help farmers detect crop diseases early and make informed decisions using soil and environmental data. It provides smart recommendations for crops, fertilizers, and treatments while also connecting farmers to relevant government schemes.
 
-The system replaces manual record-keeping with a digital, automated platform that improves accuracy, ensures food safety, and supports better decision-making.
-
-🎯 Objectives
-Digitally manage livestock health and treatment records
-Monitor antimicrobial usage (AMU)
-Ensure compliance with Maximum Residue Limits (MRL)
-Track withdrawal periods for safe consumption
-Improve food safety and reduce antimicrobial resistance
 🚀 Features
-🧑‍🌾 Farmer Dashboard
-Livestock data management
-Treatment and medicine records
-Dashboard with key insights
-💊 Antimicrobial Usage Tracking
-Record and monitor drug usage
-Maintain treatment history
-Promote responsible antibiotic use
-⚠️ Residue Monitoring System
-Calculates withdrawal periods
-Checks compliance with MRL standards
-Prevents unsafe product consumption
-🔔 Alerts & Notifications
-Real-time alerts for withdrawal periods
-Notifications for unsafe residue levels
-📊 Reports & Analytics
-Visual representation of farm data
-Usage and treatment reports
-Decision-support insights
-🔐 Security & Authentication
-Role-based access control
-Secure login and data protection
-🏛️ Government Schemes Feature
-Displays relevant government schemes for farmers
-Helps users discover subsidies and support programs
-Personalized recommendations based on farm needs
+🌾 AI-based crop disease detection
+🧪 Soil health analysis (pH, moisture, nutrients)
+🤖 Smart crop & fertilizer recommendations
+🌦️ Weather-based insights
+🚨 Real-time alerts and notifications
+🏛️ Government schemes integration
+☁️ Cloud-based data storage
+📊 Data analytics dashboard
+🎯 Problem Statement
+
+Farmers struggle to identify crop diseases early and lack proper understanding of soil conditions, leading to reduced yield and losses. Limited access to timely guidance and government support further affects productivity and sustainability.
+
+💡 Solution
+
+This system integrates AI, soil data, and weather insights to detect diseases and provide accurate recommendations, helping farmers improve productivity and adopt sustainable practices.
+
 🛠️ Tech Stack
-
-Frontend:
-
-HTML, CSS, JavaScript
-React.js (or Flutter for mobile)
-
-Backend:
-
-Node.js / Python (Flask / Django)
-
-Database:
-
-MySQL / MongoDB
-⚙️ System Modules
-Livestock Management
-Drug Usage Monitoring
-Residue Limit Checking
-Alerts & Notification System
-Government Schemes Recommendation
-🔄 Methodology
-Problem Identification
-Data Collection
-System Design
-Development
-Testing
-Deployment
-📈 Expected Outcomes
-Improved monitoring of antimicrobial usage
-Reduced risk of harmful residues in animal products
-Better compliance with food safety standards
-Increased awareness of responsible antibiotic usage
-Enhanced farm management efficiency
+Frontend: (e.g., HTML, CSS, React)
+Backend: (e.g., Node.js, Flask, Django)
+Database: (e.g., MongoDB, MySQL)
+AI/ML: (e.g., TensorFlow, OpenCV)
+Cloud: (e.g., AWS / Firebase)
 🌍 Impact
-Improved food safety
-Reduced antimicrobial resistance (AMR)
-Better livestock health management
-Promotion of digital agriculture
-📌 Future Scope
-AI-based disease prediction
-IoT-based real-time monitoring
-Mobile application development
-Multilingual support
+Improves farmer decision-making
+Reduces crop losses
+Promotes sustainable agriculture
+Increases farmer income
+📈 Future Scope
+Mobile app development
+IoT-based real-time soil monitoring
+Multi-language support
+Advanced predictive analytics
